@@ -1,0 +1,2 @@
+name	len	RNA_score	DNA_score	Prediction
+NZ_CP012333.1 Labilithrix luteola strain DSM 27648, complete genome	11120	0.33358055353164673	0.6588590145111084

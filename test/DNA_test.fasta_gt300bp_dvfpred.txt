@@ -1,0 +1,112 @@
+name	len	RNA_score	DNA_score	Prediction
+NC_043260 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV22.5 right terminal repeat	632	0.5873245596885681	0.06516194343566895
+NC_043261 |Chelonus inanitus bracovirus|Chelonus inanitus bracovirus segment CiV16.8| clone 2B1	17789	0.6254355311393738	0.3742073178291321
+NC_043262 |Chelonus inanitus bracovirus|Chelonus inanitus bracovirus segment CiV17.7	17677	0.7634983062744141	0.23620522022247314
+NC_043263 |Chelonus inanitus bracovirus|Chelonus inanitus bracovirus 12g2 gene and ORF1	11852	0.5208618640899658	0.47840434312820435
+NC_043265 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV21 left terminal repeat	511	0.3215876817703247	0.44748735427856445
+NC_043266 |Chelonus inanitus bracovirus|Chelonus inanitus bracovirus segment CiV19.5	19503	0.4819561541080475	0.5170321464538574
+NC_043267 |Chelonus inanitus bracovirus|Chelonus inanitus bracovirus segment CiV15.8	15810	0.38510024547576904	0.6145156621932983
+NC_043268 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV14.5 right terminal repeat	475	0.3224497437477112	0.49566376209259033
+NC_043269 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV14 left terminal repeat| clone lambda2B211	1641	0.16064676642417908	0.6051409244537354
+NC_043270 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV14 right terminal repeat and CiV22.5 left terminal repeat	2065	0.195779949426651	0.6978789567947388
+NC_043271 |Chelonus inanitus bracovirus|Chelonus inanitus virus 14g1 gene for recombinase| 14g2 gene and ORF3| segment CiV14	14159	0.6133103370666504	0.38614749908447266
+NC_043272 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV21 right terminal repeat	312	0.08297903835773468	0.19340012967586517
+NC_043274 |Chelonus inanitus bracovirus|Chelonus inanitus Bracovirus proviral CiV16.8 right terminal repeat	330	0.06266559660434723	0.1945735365152359
+NC_043279 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP H gene for protein tyrosine phosphatase| clone 1	828	0.8053857684135437	0.12663321197032928
+NC_043280 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP Y gene for protein tyrosine phosphatase| clone 1	839	0.8855115175247192	0.049951937049627304
+NC_043283 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP M gene for protein tyrosine phosphatase| clone 1	816	0.8622227907180786	0.08176346123218536
+NC_043284 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP delta gene for protein tyrosine phosphatase| clone 1	873	0.2916998863220215	0.47919803857803345
+NC_043285 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP R gene for protein tyrosine phosphatase| clone 1	765	0.8680112361907959	0.10606611520051956
+NC_043286 |Cotesia flavipes bracovirus|Cotesia flavipes bracovirus partial PTP Capha pseudogene| clone 1	709	0.6301571130752563	0.21234267950057983
+NC_043287 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus protein tyrosine phosphatase 1 gene| complete cds	900	0.34943580627441406	0.46181046962738037
+NC_043289 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus partial PTP Capha gene for protein tyrosine phosphatase| clone 1	714	0.4321760833263397	0.339832603931427
+NC_043290 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus ELP1-like protein gene| partial cds	654	0.8447920083999634	0.08411642909049988
+NC_043291 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus partial PTP H gene for protein tyrosine phosphatase| clone 1	846	0.849779486656189	0.07787415385246277
+NC_043292 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus putative histone 4 gene| complete cds	426	0.42029881477355957	0.20172131061553955
+NC_043293 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus partial PTP gene for protein tyrosine phosphatase| clone 1	722	0.6399668455123901	0.21118038892745972
+NC_043295 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus host translation inhibitory factor III mRNA| complete cds	554	0.3595106899738312	0.23310184478759766
+NC_043296 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus host translation inhibitory factor II mRNA| partial cds	467	0.3105542063713074	0.2814311683177948
+NC_043297 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus host translation inhibitory factor I mRNA| complete cds	708	0.20046770572662354	0.19148306548595428
+NC_043299 |Cotesia glomerata bracovirus|Cotesia glomerata bracovirus partial PTP R gene for protein tyrosine phosphatase| clone 1	873	0.6945583820343018	0.24534811079502106
+NC_043301 |Cotesia marginiventris bracovirus|Cotesia marginiventris bracovirus partial PTP P gene for protein tyrosine phosphatase| clone 1	756	0.6565179824829102	0.25238528847694397
+NC_043302 |Cotesia marginiventris bracovirus|Cotesia marginiventris bracovirus partial PTP Capha pseodogene| clone 1	714	0.6883803606033325	0.21267354488372803
+NC_043303 |Cotesia marginiventris bracovirus|Cotesia marginiventris bracovirus partial PTP EX gene for protein tyrosine phosphatase| clone 1	798	0.784329354763031	0.13666102290153503
+NC_043304 |Cotesia marginiventris bracovirus|Cotesia marginiventris bracovirus partial PTP Y gene for protein tyrosine phosphatase| clone 1	843	0.9124733209609985	0.04042214900255203
+NC_043305 |Cotesia melanoscela bracovirus|Cotesia melanoscela bracovirus partial PTP EX gene for protein tyrosine phosphatase| clone 10	591	0.504694402217865	0.2888451814651489
+NC_043309 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 3| complete sequence	16057	0.5690162181854248	0.42992356419563293
+NC_043310 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 27| complete sequence	11118	0.42106348276138306	0.5773311853408813
+NC_043311 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 12| complete sequence	8074	0.6349918842315674	0.36329710483551025
+NC_043312 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 17| complete sequence	13595	0.43375277519226074	0.5650146007537842
+NC_043315 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 4| complete sequence	13357	0.39414548873901367	0.6052908897399902
+NC_043320 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 18| complete sequence	18404	0.5321730375289917	0.46525996923446655
+NC_043321 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 20| complete sequence	9701	0.376089870929718	0.6223242282867432
+NC_043322 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 23| complete sequence	16987	0.4697965383529663	0.5299364328384399
+NC_043323 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 22| complete sequence	16845	0.7144607305526733	0.2851060628890991
+NC_043324 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 19| complete sequence	11120	0.5083376169204712	0.49050331115722656
+NC_043327 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 24| complete sequence	13182	0.48220330476760864	0.517137885093689
+NC_043328 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 7| complete sequence	13134	0.5950673818588257	0.4040620028972626
+NC_043329 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 29| complete sequence	12859	0.308810293674469	0.6901767253875732
+NC_043332 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 28| complete sequence	17937	0.7432025671005249	0.25619590282440186
+NC_043333 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 31| complete sequence	9488	0.49495553970336914	0.5033841133117676
+NC_043334 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 9| complete sequence	3759	0.316458523273468	0.6751019954681396
+NC_043335 |Diolcogaster facetosa bracovirus|Diolcogaster facetosa bracovirus segment 21| complete sequence	8137	0.334936261177063	0.6623933911323547
+NC_043336 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 30| complete sequence	12911	0.49512386322021484	0.5036280155181885
+NC_043338 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 4| complete sequence	13591	0.6155374050140381	0.3835083842277527
+NC_043339 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 3| complete sequence	16355	0.67364501953125	0.32570433616638184
+NC_043340 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segments 19 and 21| partial sequence	18727	0.6796853542327881	0.32000231742858887
+NC_043341 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment F| complete sequence	18583	0.6682245135307312	0.3312813937664032
+NC_043343 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 28| complete sequence	15161	0.726103663444519	0.27295994758605957
+NC_043347 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 17| partial sequence	13173	0.518445611000061	0.4796030521392822
+NC_043349 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 22| complete sequence	18864	0.6364408731460571	0.36298584938049316
+NC_043353 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis polydnavirus P494 gene| complete cds	1807	0.07698576152324677	0.8898032903671265
+NC_043355 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis polydnavirus P325 gene| complete cds	1109	0.0129499901086092	0.7536696195602417
+NC_043356 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 23| complete sequence	18522	0.6058576703071594	0.39392340183258057
+NC_043357 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 20| complete sequence	9686	0.5842821598052979	0.4149802327156067
+NC_043358 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 15| complete sequence	18205	0.45013898611068726	0.5490331649780273
+NC_043359 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 25| complete sequence	18594	0.6805821657180786	0.3189176023006439
+NC_043360 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 29| partial sequence	12747	0.5056217312812805	0.4933874011039734
+NC_043362 |Glyptapanteles indiensis bracovirus|Glyptapanteles indiensis bracovirus segment 8| complete sequence	10057	0.4991251230239868	0.4988449215888977
+NC_043363 |Choristoneura fumiferana entomopoxvirus|Choristoneura fumiferana entomopoxvirus fusolin precursor| gene| complete cds	1445	0.016033077612519264	0.9302651882171631
+NC_043364 |Choristoneura fumiferana entomopoxvirus|Choristoneura fumiferana entomopoxvirus 'L' gene for thymidine kinase| complete cds	756	0.09022878110408783	0.22800420224666595
+NC_043365 |Choristoneura fumiferana entomopoxvirus|Choristoneura fumiferana entomopoxvirus nucleotide triphosphate phosphohydrolase I (NPHI) gene| complete cds	3750	0.038631197065114975	0.6299347877502441
+NC_043366 |Choristoneura fumiferana entomopoxvirus|Choristoneura fumiferana entomopoxvirus spheroidin gene| complete cds| G4R gene| partial cds| and nucleoside triphosphate phosphohydrolase (NPH I) gene| partial cds	4000	0.4708196520805359	0.5095772743225098
+NC_043374 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP L gene for protein tyrosine phosphatase| clone 1	699	0.858546257019043	0.07521513104438782
+NC_043376 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP P gene for protein tyrosine phosphatase| clone 1	718	0.642542839050293	0.2643945813179016
+NC_043377 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP Q pseudogene| clone 1	697	0.918079674243927	0.06174256652593613
+NC_043378 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP EX gene for protein tyrosine phosphatase| clone 1| isolate 2	792	0.7077724933624268	0.18702057003974915
+NC_043379 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP R gene for protein tyrosine phosphatase| clone 1	552	0.6308423280715942	0.33343905210494995
+NC_043380 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP Y gene for protein tyrosine phosphatase| clone 1	831	0.8755056858062744	0.051003508269786835
+NC_043381 |Cotesia rubecula bracovirus|Cotesia rubecula bracovirus partial PTP K gene for protein tyrosine phosphatase| clone 1	678	0.8507913947105408	0.09800076484680176
+NC_043405 |Great tit siadenovirus A|Great tit adenovirus 1 IVa2 gene| partial cds; DNA polymerase| pTP| 52K protein| pIIIa| pIII| pVII| pX| and pVI genes| complete cds; and hexon gene| partial cds	13628	0.6770307421684265	0.32280731201171875
+NC_043410 |Phocid alphaherpesvirus 1|Phocid herpesvirus-1| strain PB84 Us2 gene (partial)| Us3 gene| Us4 gene| Us6 gene| Us7 gene| Us8 gene| Us8.5 gene and Us9 gene	9578	0.49396073818206787	0.50464928150177
+NC_043418 |Eupatorium yellow vein virus|Eupatorium yellow vein virus-[MNS2] complete genome| isolate Fukuoka-MNS2	2765	0.056968994438648224	0.9404709339141846
+NC_043432 |Chaetoceros diatodnavirus 1|Chaetoceros setoense DNA virus DNA| complete genome	5836	0.6652427911758423	0.33408552408218384
+NC_043433 |Sweet potato golden vein Korea virus|Sweet potato golden vein Korea virus isolate 102_SPGVaV| complete genome	2807	0.042431093752384186	0.953353762626648
+NC_043446 |Ungulate protoparvovirus 2|Protoparvovirus Zsana/2013/HUN non-structural protein gene| partial cds; putative middle protein gene| complete cds; and structural protein-like gene| partial sequence	4281	0.8783431649208069	0.12154953181743622
+NC_043449 |Tomato yellow leaf curl China alphasatellite|Tomato yellow leaf curl China virus associated DNA 1 rep gene for replication-associated protein| clone 17	1369	0.001369389472529292	0.9970956444740295
+NC_043454 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative membrane protein gene| complete cds	878	0.38638073205947876	0.14207617938518524
+NC_043455 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus unknown gene	1340	0.08913067728281021	0.7431751489639282
+NC_043456 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative transcription factor| putative transcription factor| putative DNA helicase| and putative oligoribonuclease genes| complete cds; and unknown genes	5640	0.7649977207183838	0.23312413692474365
+NC_043457 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative late transcription factor gene| complete cds	842	0.33607617020606995	0.5323147773742676
+NC_043458 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus RI-1 protein gene| complete cds	1641	0.8051352500915527	0.16088858246803284
+NC_043459 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus unknown gene	1517	0.5404338836669922	0.11814464628696442
+NC_043460 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus unknown gene	1109	0.07408101111650467	0.6250584125518799
+NC_043461 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative metalloprotease gene| complete cds	2063	0.15100058913230896	0.7512655258178711
+NC_043462 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative virion surface protein gene| complete cds	668	0.28897973895072937	0.17259147763252258
+NC_043463 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus DNA-dependent RNA polymerase (R1-36-1) gene| partial cds	2316	0.6997940540313721	0.2720796763896942
+NC_043464 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus putative poly(A) polymerase regulatory small subunit gene| complete cds	1082	0.07002350687980652	0.3115219473838806
+NC_043465 |Diachasmimorpha entomopoxvirus|Diachasmimorpha longicaudata entomopoxvirus rifampicin resistance protein gene| complete cds	2344	0.7150367498397827	0.2667340040206909
+NC_043466 |Salmonid herpesvirus 3|Salmonid herpesvirus 3 isolate Wisconsin epidemic terminase gene| partial cds	506	0.5986789464950562	0.3147169053554535
+NC_043467 |Salmonid herpesvirus 3|Salmonid herpesvirus 3 glycoprotein gene| partial cds	1518	0.6306695342063904	0.3542190194129944
+NC_043468 |Salmonid herpesvirus 3|Salmonid herpesvirus 3 isolate Wisconsin epidemic DNA polymerase gene| partial cds	451	0.7362563610076904	0.23017194867134094
+NC_043513 |Bhendi yellow vein Haryana virus|Bhendi yellow vein Haryana virus [2003:Karnal] isolate OY76 segment DNA-A| complete sequence	2740	0.07453218102455139	0.9233232140541077
+NC_043514 |Vernonia yellow vein Fujian virus|Vernonia yellow vein Fujian virus isolate VeYVFjV segment DNA-A| complete sequence	2739	0.06747189909219742	0.9268344640731812
+NC_043517 |Pepper leafroll virus|Pepper leafroll virus isolate PE:P107:pep:2009 segment DNA A| complete sequence	2568	0.10255222022533417	0.8943897485733032
+NC_043524 |Bean leaf crumple virus|Bean leaf crumple virus isolate HA segment DNA-A| complete sequence	2598	0.04925958812236786	0.9474532008171082
+NC_043526 |Jacquemontia yellow vein virus|Jacquemontia yellow vein virus isolate 1915 clone 1 segment DNA-A| complete sequence	2585	0.12111221253871918	0.8768076300621033
+NC_043528 |Capuchin monkey hepatitis B virus|Capuchin monkey hepatitis B virus isolate M12| complete genome	3182	0.4171332120895386	0.5806584358215332
+NC_043531 |Datura leaf curl virus|Datura leaf curl virus isolate Sudan-Datura 435-2016| complete genome	2782	0.0482516810297966	0.9482799768447876
+NC_043533 |Prunus latent virus|Prunus geminivirus A isolate PL4 clone PL4-11| complete genome	3174	0.2051103711128235	0.7903681993484497
+NC_043695 |Sturgeon ichtadenovirus A|White sturgeon adenovirus strain WSAdV DNA polymerase gene| partial cds	415	0.4286859929561615	0.4242243766784668
+NC_043696 |Sturgeon ichtadenovirus A|White sturgeon adenovirus hexon and protease genes| strain WSAdV	3449	0.684374213218689	0.31428542733192444
+NC_045425 |Thermus virus OH3|Thermus phage phiOH3 genomic DNA| complete genome	5688	0.17133209109306335	0.8255921602249146

@@ -1,0 +1,67 @@
+...loading data...
+...loading RNA virus data...
+data for training RNA_tr#2k_num1_seq2360_codefw.npy
+data for validation RNA_val#2k_num1_seq418_codefw.npy
+...loading DNA virus data...
+data for training DNA_tr#2k_num1_seq1540_codefw.npy
+data for validation DNA_val#2k_num1_seq772_codefw.npy
+...loading bacterial data...
+data for training bacterial_tr#2k_num1_seq1000_codefw.npy
+data for validation bacterial_val#2k_num1_seq100_codefw.npy
+...combining all training data...
+...shuffling training data...
+...building model...
+...fitting model...
+2k_fl10_fn500_dn500_ep10
+Train on 4900 samples, validate on 1290 samples
+Epoch 1/10
+ - 217s - loss: 0.9216 - accuracy: 0.5565 - val_loss: 0.8066 - val_accuracy: 0.5938
+
+Epoch 00001: val_loss improved from inf to 0.80661, saving model to ./training_data/models/model_siamese_varlen_2k_fl10_fn500_dn500.h5
+Epoch 2/10
+ - 208s - loss: 0.6031 - accuracy: 0.7427 - val_loss: 0.5906 - val_accuracy: 0.7279
+
+Epoch 00002: val_loss improved from 0.80661 to 0.59064, saving model to ./training_data/models/model_siamese_varlen_2k_fl10_fn500_dn500.h5
+Epoch 3/10
+ - 209s - loss: 0.4325 - accuracy: 0.8302 - val_loss: 1.3722 - val_accuracy: 0.4109
+
+Epoch 00003: val_loss did not improve from 0.59064
+Epoch 4/10
+ - 209s - loss: 0.3515 - accuracy: 0.8645 - val_loss: 0.8920 - val_accuracy: 0.5798
+
+Epoch 00004: val_loss did not improve from 0.59064
+Epoch 5/10
+ - 210s - loss: 0.2715 - accuracy: 0.9016 - val_loss: 0.6884 - val_accuracy: 0.6977
+
+Epoch 00005: val_loss did not improve from 0.59064
+Epoch 6/10
+ - 210s - loss: 0.2315 - accuracy: 0.9124 - val_loss: 0.8793 - val_accuracy: 0.6047
+
+Epoch 00006: val_loss did not improve from 0.59064
+Epoch 7/10
+ - 210s - loss: 0.1918 - accuracy: 0.9284 - val_loss: 0.6144 - val_accuracy: 0.7512
+
+Epoch 00007: val_loss did not improve from 0.59064
+Epoch 8/10
+ - 210s - loss: 0.1706 - accuracy: 0.9371 - val_loss: 1.3450 - val_accuracy: 0.5620
+
+Epoch 00008: val_loss did not improve from 0.59064
+Epoch 9/10
+ - 210s - loss: 0.1467 - accuracy: 0.9488 - val_loss: 1.1669 - val_accuracy: 0.5961
+
+Epoch 00009: val_loss did not improve from 0.59064
+Epoch 10/10
+ - 210s - loss: 0.1245 - accuracy: 0.9573 - val_loss: 1.9369 - val_accuracy: 0.4992
+Using Theano backend.
+/opt/ohpc/pub/anaconda3/lib/python3.7/site-packages/keras/callbacks/callbacks.py:846: RuntimeWarning: Early stopping conditioned on metric `val_acc` which is not available. Available metrics are: val_loss,val_accuracy,loss,accuracy
+  (self.monitor, ','.join(list(logs.keys()))), RuntimeWarning
+
+Epoch 00010: val_loss did not improve from 0.59064
+...predicting tr...
+
+auc_tr=0.9993669564750346
+
+...predicting val...
+
+auc_val=0.8806871570374869
+

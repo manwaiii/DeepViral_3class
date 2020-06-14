@@ -1,0 +1,342 @@
+1. Loading Models.
+   model directory /home/manwho5/fyp/DeepViral_3newTry/models
+2. Encoding and Predicting Sequences.
+   processing line 10713
+Using Theano backend.
+Model with 0.5k is used
+The score is [[0.5873246  0.06516194 0.34751344]] and the prediciton is RNA
+The prediction rate is 1/0/0 with the total number of 1
+Model with 2k is used
+The score is [[0.6254356  0.37420726 0.00035715]] and the prediciton is RNA
+The prediction rate is 2/0/0 with the total number of 2
+Model with 2k is used
+The score is [[0.7634983  0.23620516 0.00029649]] and the prediciton is RNA
+The prediction rate is 3/0/0 with the total number of 3
+Model with 2k is used
+The score is [[0.52086186 0.47840434 0.0007338 ]] and the prediciton is RNA
+The prediction rate is 4/0/0 with the total number of 4
+Model with 0.5k is used
+The score is [[0.32158768 0.44748732 0.23092502]] and the prediciton is DNA
+The prediction rate is 4/1/0 with the total number of 5
+Model with 2k is used
+The score is [[0.48195615 0.51703215 0.00101168]] and the prediciton is DNA
+The prediction rate is 4/2/0 with the total number of 6
+Model with 2k is used
+The score is [[0.38510025 0.61451566 0.00038408]] and the prediciton is DNA
+The prediction rate is 4/3/0 with the total number of 7
+Model with 0.5k is used
+The score is [[0.32244974 0.4956638  0.18188646]] and the prediciton is DNA
+The prediction rate is 4/4/0 with the total number of 8
+Model with 1k is used
+The score is [[0.16064669 0.60514104 0.23421225]] and the prediciton is DNA
+The prediction rate is 4/5/0 with the total number of 9
+Model with 2k is used
+The score is [[0.19577995 0.69787896 0.10634112]] and the prediciton is DNA
+The prediction rate is 4/6/0 with the total number of 10
+Model with 2k is used
+The score is [[0.61331046 0.38614738 0.00054214]] and the prediciton is RNA
+The prediction rate is 5/6/0 with the total number of 11
+Model with 0.5k is used
+The score is [[0.08297905 0.19340011 0.72362083]] and the prediciton is bacteria
+The prediction rate is 5/6/1 with the total number of 12
+Model with 0.5k is used
+The score is [[0.0626656  0.19457352 0.7427609 ]] and the prediciton is bacteria
+The prediction rate is 5/6/2 with the total number of 13
+Model with 0.5k is used
+The score is [[0.8053858  0.1266332  0.06798097]] and the prediciton is RNA
+The prediction rate is 6/6/2 with the total number of 14
+Model with 0.5k is used
+The score is [[0.8855115  0.04995193 0.06453656]] and the prediciton is RNA
+The prediction rate is 7/6/2 with the total number of 15
+Model with 0.5k is used
+The score is [[0.8622228  0.08176345 0.05601378]] and the prediciton is RNA
+The prediction rate is 8/6/2 with the total number of 16
+Model with 0.5k is used
+The score is [[0.29169992 0.47919804 0.22910208]] and the prediciton is DNA
+The prediction rate is 8/7/2 with the total number of 17
+Model with 0.5k is used
+The score is [[0.86801136 0.10606609 0.02592258]] and the prediciton is RNA
+The prediction rate is 9/7/2 with the total number of 18
+Model with 0.5k is used
+The score is [[0.6301571  0.21234265 0.15750022]] and the prediciton is RNA
+The prediction rate is 10/7/2 with the total number of 19
+Model with 0.5k is used
+The score is [[0.34943584 0.46181053 0.18875366]] and the prediciton is DNA
+The prediction rate is 10/8/2 with the total number of 20
+Model with 0.5k is used
+The score is [[0.43217614 0.33983257 0.22799128]] and the prediciton is RNA
+The prediction rate is 11/8/2 with the total number of 21
+Model with 0.5k is used
+The score is [[0.844792   0.08411644 0.07109153]] and the prediciton is RNA
+The prediction rate is 12/8/2 with the total number of 22
+Model with 0.5k is used
+The score is [[0.8497795  0.07787416 0.07234638]] and the prediciton is RNA
+The prediction rate is 13/8/2 with the total number of 23
+Model with 0.5k is used
+The score is [[0.4202988  0.20172131 0.37797987]] and the prediciton is RNA
+The prediction rate is 14/8/2 with the total number of 24
+Model with 0.5k is used
+The score is [[0.63996696 0.21118039 0.14885269]] and the prediciton is RNA
+The prediction rate is 15/8/2 with the total number of 25
+Model with 0.5k is used
+The score is [[0.3595107  0.23310183 0.4073875 ]] and the prediciton is bacteria
+The prediction rate is 15/8/3 with the total number of 26
+Model with 0.5k is used
+The score is [[0.3105542  0.2814312  0.40801463]] and the prediciton is bacteria
+The prediction rate is 15/8/4 with the total number of 27
+Model with 0.5k is used
+The score is [[0.2004677  0.19148308 0.60804915]] and the prediciton is bacteria
+The prediction rate is 15/8/5 with the total number of 28
+Model with 0.5k is used
+The score is [[0.6945584  0.24534813 0.06009351]] and the prediciton is RNA
+The prediction rate is 16/8/5 with the total number of 29
+Model with 0.5k is used
+The score is [[0.6565179  0.25238532 0.09109675]] and the prediciton is RNA
+The prediction rate is 17/8/5 with the total number of 30
+Model with 0.5k is used
+The score is [[0.68838036 0.21267354 0.09894611]] and the prediciton is RNA
+The prediction rate is 18/8/5 with the total number of 31
+Model with 0.5k is used
+The score is [[0.78432935 0.13666104 0.07900959]] and the prediciton is RNA
+The prediction rate is 19/8/5 with the total number of 32
+Model with 0.5k is used
+The score is [[0.9124733  0.04042215 0.04710448]] and the prediciton is RNA
+The prediction rate is 20/8/5 with the total number of 33
+Model with 0.5k is used
+The score is [[0.50469446 0.2888452  0.20646036]] and the prediciton is RNA
+The prediction rate is 21/8/5 with the total number of 34
+Model with 2k is used
+The score is [[0.56901634 0.42992353 0.00106018]] and the prediciton is RNA
+The prediction rate is 22/8/5 with the total number of 35
+Model with 2k is used
+The score is [[0.42106348 0.5773312  0.00160532]] and the prediciton is DNA
+The prediction rate is 22/9/5 with the total number of 36
+Model with 2k is used
+The score is [[0.6349918  0.36329716 0.00171102]] and the prediciton is RNA
+The prediction rate is 23/9/5 with the total number of 37
+Model with 2k is used
+The score is [[0.43375283 0.56501454 0.00123264]] and the prediciton is DNA
+The prediction rate is 23/10/5 with the total number of 38
+Model with 2k is used
+The score is [[0.39414546 0.6052909  0.00056366]] and the prediciton is DNA
+The prediction rate is 23/11/5 with the total number of 39
+Model with 2k is used
+The score is [[0.532173   0.46525997 0.00256702]] and the prediciton is RNA
+The prediction rate is 24/11/5 with the total number of 40
+Model with 2k is used
+The score is [[0.37609    0.6223241  0.00158593]] and the prediciton is DNA
+The prediction rate is 24/12/5 with the total number of 41
+Model with 2k is used
+The score is [[0.46979657 0.52993643 0.00026703]] and the prediciton is DNA
+The prediction rate is 24/13/5 with the total number of 42
+Model with 2k is used
+The score is [[0.71446073 0.28510606 0.00043317]] and the prediciton is RNA
+The prediction rate is 25/13/5 with the total number of 43
+Model with 2k is used
+The score is [[0.5083374  0.49050343 0.00115913]] and the prediciton is RNA
+The prediction rate is 26/13/5 with the total number of 44
+Model with 2k is used
+The score is [[0.4822033  0.5171379  0.00065876]] and the prediciton is DNA
+The prediction rate is 26/14/5 with the total number of 45
+Model with 2k is used
+The score is [[0.5950675  0.40406188 0.00087062]] and the prediciton is RNA
+The prediction rate is 27/14/5 with the total number of 46
+Model with 2k is used
+The score is [[0.30881035 0.6901766  0.00101305]] and the prediciton is DNA
+The prediction rate is 27/15/5 with the total number of 47
+Model with 2k is used
+The score is [[0.7432027  0.25619578 0.00060154]] and the prediciton is RNA
+The prediction rate is 28/15/5 with the total number of 48
+Model with 2k is used
+The score is [[0.49495557 0.5033841  0.00166033]] and the prediciton is DNA
+The prediction rate is 28/16/5 with the total number of 49
+Model with 2k is used
+The score is [[0.31645846 0.67510206 0.00843948]] and the prediciton is DNA
+The prediction rate is 28/17/5 with the total number of 50
+Model with 2k is used
+The score is [[0.33493632 0.66239333 0.00267032]] and the prediciton is DNA
+The prediction rate is 28/18/5 with the total number of 51
+Model with 2k is used
+The score is [[0.49512386 0.5036281  0.0012481 ]] and the prediciton is DNA
+The prediction rate is 28/19/5 with the total number of 52
+Model with 2k is used
+The score is [[0.61553735 0.38350844 0.00095422]] and the prediciton is RNA
+The prediction rate is 29/19/5 with the total number of 53
+Model with 2k is used
+The score is [[0.673645   0.32570434 0.00065063]] and the prediciton is RNA
+The prediction rate is 30/19/5 with the total number of 54
+Model with 2k is used
+The score is [[0.6796856  0.3200021  0.00031231]] and the prediciton is RNA
+The prediction rate is 31/19/5 with the total number of 55
+Model with 2k is used
+The score is [[0.6682246  0.33128136 0.0004941 ]] and the prediciton is RNA
+The prediction rate is 32/19/5 with the total number of 56
+Model with 2k is used
+The score is [[0.72610366 0.27296    0.00093636]] and the prediciton is RNA
+The prediction rate is 33/19/5 with the total number of 57
+Model with 2k is used
+The score is [[0.5184455  0.47960323 0.00195131]] and the prediciton is RNA
+The prediction rate is 34/19/5 with the total number of 58
+Model with 2k is used
+The score is [[0.6364409  0.36298588 0.00057328]] and the prediciton is RNA
+The prediction rate is 35/19/5 with the total number of 59
+Model with 1k is used
+The score is [[0.07698572 0.8898033  0.03321096]] and the prediciton is DNA
+The prediction rate is 35/20/5 with the total number of 60
+Model with 1k is used
+The score is [[0.01294999 0.7536696  0.2333804 ]] and the prediciton is DNA
+The prediction rate is 35/21/5 with the total number of 61
+Model with 2k is used
+The score is [[0.6058576  0.39392346 0.00021892]] and the prediciton is RNA
+The prediction rate is 36/21/5 with the total number of 62
+Model with 2k is used
+The score is [[0.5842822  0.41498023 0.00073756]] and the prediciton is RNA
+The prediction rate is 37/21/5 with the total number of 63
+Model with 2k is used
+The score is [[0.45013902 0.5490331  0.00082788]] and the prediciton is DNA
+The prediction rate is 37/22/5 with the total number of 64
+Model with 2k is used
+The score is [[0.6805823  0.3189175  0.00050019]] and the prediciton is RNA
+The prediction rate is 38/22/5 with the total number of 65
+Model with 2k is used
+The score is [[0.5056218  0.49338734 0.00099087]] and the prediciton is RNA
+The prediction rate is 39/22/5 with the total number of 66
+Model with 2k is used
+The score is [[0.49912518 0.49884486 0.00202998]] and the prediciton is RNA
+The prediction rate is 40/22/5 with the total number of 67
+Model with 1k is used
+The score is [[0.01603308 0.9302652  0.0537017 ]] and the prediciton is DNA
+The prediction rate is 40/23/5 with the total number of 68
+Model with 0.5k is used
+The score is [[0.09022878 0.22800416 0.68176705]] and the prediciton is bacteria
+The prediction rate is 40/23/6 with the total number of 69
+Model with 2k is used
+The score is [[0.03863119 0.6299348  0.331434  ]] and the prediciton is DNA
+The prediction rate is 40/24/6 with the total number of 70
+Model with 2k is used
+The score is [[0.4708196  0.50957733 0.01960305]] and the prediciton is DNA
+The prediction rate is 40/25/6 with the total number of 71
+Model with 0.5k is used
+The score is [[0.85854626 0.07521513 0.06623866]] and the prediciton is RNA
+The prediction rate is 41/25/6 with the total number of 72
+Model with 0.5k is used
+The score is [[0.64254284 0.2643946  0.09306256]] and the prediciton is RNA
+The prediction rate is 42/25/6 with the total number of 73
+Model with 0.5k is used
+The score is [[0.91807973 0.06174257 0.02017774]] and the prediciton is RNA
+The prediction rate is 43/25/6 with the total number of 74
+Model with 0.5k is used
+The score is [[0.7077725  0.1870206  0.10520693]] and the prediciton is RNA
+The prediction rate is 44/25/6 with the total number of 75
+Model with 0.5k is used
+The score is [[0.63084245 0.333439   0.03571859]] and the prediciton is RNA
+The prediction rate is 45/25/6 with the total number of 76
+Model with 0.5k is used
+The score is [[0.8755057  0.05100351 0.07349077]] and the prediciton is RNA
+The prediction rate is 46/25/6 with the total number of 77
+Model with 0.5k is used
+The score is [[0.8507914  0.09800076 0.05120786]] and the prediciton is RNA
+The prediction rate is 47/25/6 with the total number of 78
+Model with 2k is used
+The score is [[0.67703086 0.3228072  0.00016194]] and the prediciton is RNA
+The prediction rate is 48/25/6 with the total number of 79
+Model with 2k is used
+The score is [[0.49396074 0.50464934 0.00138993]] and the prediciton is DNA
+The prediction rate is 48/26/6 with the total number of 80
+Model with 2k is used
+The score is [[0.05696898 0.94047093 0.00256005]] and the prediciton is DNA
+The prediction rate is 48/27/6 with the total number of 81
+Model with 2k is used
+The score is [[0.6652428  0.33408552 0.00067172]] and the prediciton is RNA
+The prediction rate is 49/27/6 with the total number of 82
+Model with 2k is used
+The score is [[0.0424311  0.95335376 0.00421515]] and the prediciton is DNA
+The prediction rate is 49/28/6 with the total number of 83
+Model with 2k is used
+The score is [[0.8783432  0.12154943 0.0001073 ]] and the prediciton is RNA
+The prediction rate is 50/28/6 with the total number of 84
+Model with 1k is used
+The score is [[0.00136939 0.99709564 0.00153497]] and the prediciton is DNA
+The prediction rate is 50/29/6 with the total number of 85
+Model with 0.5k is used
+The score is [[0.38638073 0.14207616 0.47154307]] and the prediciton is bacteria
+The prediction rate is 50/29/7 with the total number of 86
+Model with 1k is used
+The score is [[0.08913065 0.7431752  0.16769415]] and the prediciton is DNA
+The prediction rate is 50/30/7 with the total number of 87
+Model with 2k is used
+The score is [[0.7649977  0.2331242  0.00187814]] and the prediciton is RNA
+The prediction rate is 51/30/7 with the total number of 88
+Model with 0.5k is used
+The score is [[0.33607614 0.5323149  0.13160902]] and the prediciton is DNA
+The prediction rate is 51/31/7 with the total number of 89
+Model with 1k is used
+The score is [[0.80513525 0.16088858 0.03397616]] and the prediciton is RNA
+The prediction rate is 52/31/7 with the total number of 90
+Model with 1k is used
+The score is [[0.5404339  0.11814463 0.34142148]] and the prediciton is RNA
+The prediction rate is 53/31/7 with the total number of 91
+Model with 1k is used
+The score is [[0.074081   0.6250584  0.30086058]] and the prediciton is DNA
+The prediction rate is 53/32/7 with the total number of 92
+Model with 2k is used
+The score is [[0.1510006  0.75126547 0.09773393]] and the prediciton is DNA
+The prediction rate is 53/33/7 with the total number of 93
+Model with 0.5k is used
+The score is [[0.28897974 0.17259145 0.5384288 ]] and the prediciton is bacteria
+The prediction rate is 53/33/8 with the total number of 94
+Model with 2k is used
+The score is [[0.69979405 0.2720797  0.02812627]] and the prediciton is RNA
+The prediction rate is 54/33/8 with the total number of 95
+Model with 1k is used
+The score is [[0.07002348 0.3115219  0.61845464]] and the prediciton is bacteria
+The prediction rate is 54/33/9 with the total number of 96
+Model with 2k is used
+The score is [[0.7150367  0.26673406 0.01822926]] and the prediciton is RNA
+The prediction rate is 55/33/9 with the total number of 97
+Model with 0.5k is used
+The score is [[0.59867907 0.31471682 0.08660416]] and the prediciton is RNA
+The prediction rate is 56/33/9 with the total number of 98
+Model with 1k is used
+The score is [[0.6306696  0.3542189  0.01511148]] and the prediciton is RNA
+The prediction rate is 57/33/9 with the total number of 99
+Model with 0.5k is used
+The score is [[0.73625636 0.23017192 0.03357172]] and the prediciton is RNA
+The prediction rate is 58/33/9 with the total number of 100
+   processing line 11260
+3. Done
+   output in ./test/DNA_test.fasta_gt300bp_dvfpred.txt
+Model with 2k is used
+The score is [[0.07453219 0.9233233  0.00214458]] and the prediciton is DNA
+The prediction rate is 0/1/0 with the total number of 1
+Model with 2k is used
+The score is [[0.06747194 0.92683446 0.00569359]] and the prediciton is DNA
+The prediction rate is 0/2/0 with the total number of 2
+Model with 2k is used
+The score is [[0.10255224 0.89438975 0.00305802]] and the prediciton is DNA
+The prediction rate is 0/3/0 with the total number of 3
+Model with 2k is used
+The score is [[0.0492596  0.9474532  0.00328719]] and the prediciton is DNA
+The prediction rate is 0/4/0 with the total number of 4
+Model with 2k is used
+The score is [[0.12111222 0.8768077  0.00208014]] and the prediciton is DNA
+The prediction rate is 0/5/0 with the total number of 5
+Model with 2k is used
+The score is [[0.4171332  0.58065844 0.00220836]] and the prediciton is DNA
+The prediction rate is 0/6/0 with the total number of 6
+Model with 2k is used
+The score is [[0.04825169 0.94828    0.00346831]] and the prediciton is DNA
+The prediction rate is 0/7/0 with the total number of 7
+Model with 2k is used
+The score is [[0.20511037 0.7903682  0.00452146]] and the prediciton is DNA
+The prediction rate is 0/8/0 with the total number of 8
+Model with 0.5k is used
+The score is [[0.428686   0.42422438 0.14708963]] and the prediciton is RNA
+The prediction rate is 1/8/0 with the total number of 9
+Model with 2k is used
+The score is [[0.6843743  0.31428537 0.00134035]] and the prediciton is RNA
+The prediction rate is 2/8/0 with the total number of 10
+Model with 2k is used
+The score is [[0.17133214 0.82559204 0.00307579]] and the prediciton is DNA
+The prediction rate is 2/9/0 with the total number of 11
+/var/spool/slurm/d/job04351/slurm_script: line 15: /home/manwho5: Is a directory
